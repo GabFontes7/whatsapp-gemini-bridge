@@ -131,6 +131,14 @@ Consulte **[DEVELOPER.md](./DEVELOPER.md)** para manutenção técnica:
 - Debug, segurança e deploy
 - Schema do banco e integrações
 
+## Case comercial
+
+Consulte **[CASE-COMERCIAL.md](./CASE-COMERCIAL.md)** para apresentação e venda do serviço:
+- Pitch, ROI e comparativo de custos
+- Casos de uso por segmento
+- Planos sugeridos e roteiro de demo
+- Objeções comuns e script de fechamento
+
 ## Scripts
 
 ```bash
