@@ -234,14 +234,6 @@ Repositório open source: https://github.com/GabFontes7/whatsapp-gemini-bridge
 
 ---
 
-## Fechamento — script sugerido
-
-> "O que apresentamos hoje não é um chatbot de menu — é um assistente que conversa de verdade, lembra do cliente e trabalha 24 horas.
->
-> O investimento é uma fração de um atendente, e o setup leva poucos dias.
->
-> Posso preparar uma proposta com o plano [Starter/Pro] e agendar a implantação para a próxima semana?"
-
 ---
 
 ## Materiais complementares
