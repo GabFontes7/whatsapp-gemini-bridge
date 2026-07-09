@@ -1,0 +1,30 @@
+{
+  "name": "whatsapp-gemini-bridge",
+  "version": "1.0.0",
+  "description": "Backend intermediador inteligente entre Evolution API (WhatsApp), Gemini e Supabase",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "setup:webhook": "node scripts/setup-webhook.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "evolution-api",
+    "gemini",
+    "supabase",
+    "chatbot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.110.2",
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
