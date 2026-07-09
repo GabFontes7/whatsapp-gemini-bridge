@@ -216,7 +216,7 @@ Sim — arquitetura aberta em Node.js. Fase 2+ inclui webhooks de saída e APIs 
 | _[Nome]_ | _[Segmento]_ | _[Ex: -40% tempo de resposta]_ |
 | _[Nome]_ | _[Segmento]_ | _[Ex: 200 leads qualificados/mês]_ |
 
-> Após os primeiros clientes, atualize esta seção com números reais.
+---
 
 ---
 
