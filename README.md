@@ -115,6 +115,14 @@ Principais:
 
 O prompt da IA está em `src/services/gemini.js` (`SYSTEM_INSTRUCTION`).
 
+## Manual de uso
+
+Consulte **[MANUAL.md](./MANUAL.md)** para instruções completas de:
+- Como ligar e desligar o chatbot
+- Conectar e desconectar o WhatsApp
+- Reconectar após queda
+- Solução de problemas comuns
+
 ## Scripts
 
 ```bash
