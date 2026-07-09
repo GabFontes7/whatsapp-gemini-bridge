@@ -154,8 +154,6 @@ WhatsApp → Evolution API → Backend Node.js → Supabase (memória) + Gemini 
 | **Pro** | 1 número, 3.000 msgs, ajustes de prompt, SLA 24h | R$ 997/mês |
 | **Enterprise** | Multi-número, volume ilimitado, integrações | Sob consulta |
 
-> **Dica de venda:** cobrar setup + recorrência. Setup paga o trabalho inicial; recorrência garante MRR.
-
 ---
 
 ## Roteiro de apresentação (15 min)
