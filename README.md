@@ -123,6 +123,14 @@ Consulte **[MANUAL.md](./MANUAL.md)** para instruções completas de:
 - Reconectar após queda
 - Solução de problemas comuns
 
+## Guia do desenvolvedor
+
+Consulte **[DEVELOPER.md](./DEVELOPER.md)** para manutenção técnica:
+- Arquitetura e fluxo de mensagens
+- Onde alterar cada comportamento
+- Debug, segurança e deploy
+- Schema do banco e integrações
+
 ## Scripts
 
 ```bash
